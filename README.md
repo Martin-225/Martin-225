@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Martin-225.
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning to use GitHub.
-- 💞️ I’m looking to collaborate on the EconGame.
+- 💞️ I’m collaborating on the Economy Game.
